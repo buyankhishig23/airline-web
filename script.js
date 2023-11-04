@@ -7,5 +7,5 @@ document.addEventListener("DOMContentLoaded", function() {
         images[currentImageIndex].classList.remove("active");
         currentImageIndex = (currentImageIndex + 1) % totalImages;
         images[currentImageIndex].classList.add("active");
-    }, 3000); // Change image every 3 seconds
+    }, 2000); 
 });
