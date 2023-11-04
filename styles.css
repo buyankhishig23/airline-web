@@ -6,7 +6,7 @@ body::before {
     bottom: 0;
     left: 0; 
     z-index: -1; 
-    background: url('../img/travel.webp') no-repeat center center fixed;
+    background: url('./img/london.jpeg') no-repeat center center fixed;
     background-size: cover;
     opacity: 0.4; 
 }
